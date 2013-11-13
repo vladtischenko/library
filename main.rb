@@ -8,12 +8,12 @@ order4 = Order.new("Little Prince", "Kolya")
 order5 = Order.new("Wor and Peace", "Vanya")
 order6 = Order.new("Hamlet", "Vitya")
 
-#sleep(1)
+sleep(1)
 order1.take_book
 order1.take_book
-#sleep(1)
+sleep(1)
 order2.take_book
-#sleep(1)
+sleep(1)
 order5.take_book
 order5.take_book
 order5.take_book
